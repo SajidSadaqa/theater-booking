@@ -1,0 +1,9 @@
+section,row,seat_start,seat_end,status
+Premium,1,1,1,available
+Premium,1,2,2,booked
+Premium,1,3,3,available
+Premium,1,4,4,available
+Premium,2,1,1,booked
+Premium,2,2,2,available
+Premium,2,3,3,booked
+Premium,2,4,4,available

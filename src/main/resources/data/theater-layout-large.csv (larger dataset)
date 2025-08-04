@@ -1,0 +1,19 @@
+section,row,seat_start,seat_end,status
+Main Floor,1,1,12,available
+Main Floor,2,1,6,available
+Main Floor,2,7,12,booked
+Main Floor,3,1,12,available
+Main Floor,4,1,8,available
+Main Floor,4,9,12,booked
+Main Floor,5,1,12,available
+Upper Level,1,1,10,available
+Upper Level,2,1,5,booked
+Upper Level,2,6,10,available
+Upper Level,3,1,10,available
+Upper Level,4,1,4,available
+Upper Level,4,5,8,booked
+Upper Level,4,9,10,available
+Balcony,1,1,8,available
+Balcony,2,1,3,booked
+Balcony,2,4,8,available
+Balcony,3,1,8,available

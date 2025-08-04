@@ -1,0 +1,7 @@
+section,row,seat_start,seat_end,status
+Orchestra,1,1,3,available
+Orchestra,1,4,2,available
+Orchestra,abc,1,3,available
+,2,1,3,available
+Orchestra,2,1,3,invalid_status
+Orchestra,3,1,-1,available

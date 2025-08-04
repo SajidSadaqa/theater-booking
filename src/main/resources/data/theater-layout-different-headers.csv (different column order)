@@ -1,0 +1,10 @@
+row,section,status,seat_start,seat_end
+Main Floor,1,false,1,12
+1,Gallery,false,1,6
+1,Gallery,false,2,7
+1,Gallery,false,3,8
+1,Gallery,false,4,9
+2,Gallery,false,1,10
+2,Gallery,false,2,1
+2,Gallery,false,3,2
+2,Gallery,false,4,3

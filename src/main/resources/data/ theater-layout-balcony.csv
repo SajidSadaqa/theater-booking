@@ -1,0 +1,6 @@
+section,row,seat_start,seat_end,status
+Balcony,1,1,6,available
+Balcony,2,1,1,booked
+Balcony,2,2,3,available
+Balcony,2,4,4,booked
+Balcony,2,5,6,available

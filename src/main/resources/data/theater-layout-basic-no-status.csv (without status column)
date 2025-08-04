@@ -1,0 +1,6 @@
+section,row,seat_start,seat_end
+Orchestra,1,1,8
+Orchestra,2,1,8
+Orchestra,3,1,8
+Balcony,1,1,6
+Balcony,2,1,6

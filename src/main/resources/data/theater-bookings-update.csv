@@ -1,0 +1,8 @@
+section,row,seat_start,seat_end,status
+Orchestra,1,2,2,booked
+Orchestra,2,3,3,booked
+Orchestra,3,1,1,booked
+Balcony,1,4,4,booked
+Balcony,2,2,2,booked
+VIP,1,1,1,booked
+VIP,2,4,4,booked

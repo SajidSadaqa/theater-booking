@@ -1,0 +1,5 @@
+section,row,seat_start,seat_end,status
+Orchestra,1,1,5,available
+Orchestra,2,3,4,available
+Orchestra,2,2,2,booked
+Orchestra,3,1,3,available

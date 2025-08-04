@@ -1,0 +1,8 @@
+section,row,seat_start,seat_end,status
+Main Floor,1,1,10,available
+Main Floor,2,1,5,available
+Main Floor,2,6,10,booked
+Main Floor,3,1,10,available
+Upper Level,1,1,8,available
+Upper Level,2,1,4,available
+Upper Level,2,5,8,booked
