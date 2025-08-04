@@ -1,6 +1,7 @@
 # Theater Booking System
 
-A simple, extensible Java console application for managing theater layouts and seat bookings without a persistent database. This project demonstrates:
+A simple, extensible Java console application for managing theater layouts and seat bookings.
+This project demonstrates:
 
 * **Customizable Theaters**: Define multiple theaters, sections, rows, and seat counts via CSV files.
 * **Asynchronous Upload**: Load and process multiple layout files concurrently for faster startup.
