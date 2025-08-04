@@ -84,7 +84,7 @@ public class ConfigLoader {
     }
 
     /**
-     * Get all properties (useful for debugging)
+     * Get all properties
      */
     public static Properties getAllProperties() {
         return new Properties(properties);
