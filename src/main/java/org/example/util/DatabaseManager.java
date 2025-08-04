@@ -76,7 +76,7 @@ public class DatabaseManager {
         try (Connection conn = getConnection();
              Statement stmt = conn.createStatement()) {
 
-            // Create theaters table with PostgreSQL syntax
+            // Create theaters table
             stmt.execute("""
                 CREATE TABLE IF NOT EXISTS theaters (
                     id BIGSERIAL PRIMARY KEY,
@@ -85,7 +85,7 @@ public class DatabaseManager {
                 )
             """);
 
-            // Create sections table with PostgreSQL syntax
+            // Create sections table
             stmt.execute("""
                 CREATE TABLE IF NOT EXISTS sections (
                     id BIGSERIAL PRIMARY KEY,
@@ -97,7 +97,7 @@ public class DatabaseManager {
                 )
             """);
 
-            // Create rows table with PostgreSQL syntax
+            // Create rows table
             stmt.execute("""
                 CREATE TABLE IF NOT EXISTS rows (
                     id BIGSERIAL PRIMARY KEY,
@@ -109,7 +109,7 @@ public class DatabaseManager {
                 )
             """);
 
-            // Create seats table with PostgreSQL syntax
+            // Create seats table
             stmt.execute("""
                 CREATE TABLE IF NOT EXISTS seats (
                     id BIGSERIAL PRIMARY KEY,
