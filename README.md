@@ -23,15 +23,15 @@ A simple, extensible Java console application for managing theater layouts and s
 
 * Java 17 (or later)
 * Maven (for build and dependency management)
-* (Optional) PostgreSQL if you want to enable the simulated DB module
+* PostgreSQL if you want to enable the simulated DB module
 
 ## Getting Started
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/theater-booking-nodb.git
-   cd theater-booking-nodb
+   git clone https://github.com/SajidSadaqa/theater-booking.git
+   cd theater-booking
    ```
 
 2. **Build the project**
@@ -43,7 +43,7 @@ A simple, extensible Java console application for managing theater layouts and s
 3. **Run the application**
 
    ```bash
-   java -jar target/theater-booking-nodb.jar
+   java -jar target/theater-booking.jar
    ```
 
 4. **Enter CSV paths** when prompted (one per line), then press Enter on a blank line to start processing.
